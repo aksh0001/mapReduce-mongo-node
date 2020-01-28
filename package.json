@@ -1,0 +1,15 @@
+{
+  "name": "ippd",
+  "version": "1.0.0",
+  "description": "UCSD IPPD project",
+  "main": "mr-mem-avg.js",
+  "dependencies": {
+    "mongodb": "^3.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "a.k",
+  "license": "ISC"
+}
